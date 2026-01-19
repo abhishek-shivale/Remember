@@ -1,2 +1,2 @@
 # Remember
-Next Gen Password Manager
+Next Gen Password Generator
